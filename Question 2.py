@@ -3,8 +3,6 @@
 #Write a program to generate the Fibonacci sequence up to 100.
 
 
-
-
 def fibonacci(n):
   """
   This function generates the Fibonacci sequence up to a given number.
